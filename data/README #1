@@ -1,0 +1,12 @@
+# Data
+
+This folder contains the cleaned alumni fundraising dataset used for the machine learning project.
+
+Original dataset: 2,878 records
+
+Cleaned working dataset: 1,000 records
+
+Source:
+https://www.kaggle.com/datasets/michaelpawlus/fundraising-data
+
+Add data folder and dataset documentation
